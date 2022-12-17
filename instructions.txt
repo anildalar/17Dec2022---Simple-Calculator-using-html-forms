@@ -10,3 +10,23 @@ input3  number2
 
 2 + 3  = 5
 5 * 5
+
+
+\  = Escape Charater
+
+
+Type Converstion
+   The process of converting one data type into another data type is called Type Conversion
+
+There are 2 kind of type conversion
+1. Implicit Conersion (Automatically)
+2. Explicit Conversion (Developer / Forcfully)
+
+
+String ---> Number
+
+ '5' -- parseInt()/parseFloat() -->  5
+ '10'-- parseInt()/parseFloat()--->  10
+
+DOM = Document Object Model / Browser
+
