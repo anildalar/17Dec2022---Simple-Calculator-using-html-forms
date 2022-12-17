@@ -1,0 +1,12 @@
+Create a simple calculator using 
+HTML Forms and Switch Conditional Statments? 
+
+INput1 number1
+
+input2  operator
+
+input3  number2
+
+
+2 + 3  = 5
+5 * 5
